@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-instruction/static/css/main.7acaea2f.css",
+    "main.js": "/word-instruction/static/js/main.07d3183d.js",
+    "index.html": "/word-instruction/index.html",
+    "main.7acaea2f.css.map": "/word-instruction/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/word-instruction/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
