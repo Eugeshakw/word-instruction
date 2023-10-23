@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/word-instruction/static/css/main.815f9f40.css",
-    "main.js": "/word-instruction/static/js/main.b636d4b1.js",
+    "main.js": "/word-instruction/static/js/main.4af5e869.js",
     "static/media/imgQuiz.png": "/word-instruction/static/media/imgQuiz.1a6ddf7506b389a90bd6.png",
     "index.html": "/word-instruction/index.html",
     "main.815f9f40.css.map": "/word-instruction/static/css/main.815f9f40.css.map",
-    "main.b636d4b1.js.map": "/word-instruction/static/js/main.b636d4b1.js.map"
+    "main.4af5e869.js.map": "/word-instruction/static/js/main.4af5e869.js.map"
   },
   "entrypoints": [
     "static/css/main.815f9f40.css",
-    "static/js/main.b636d4b1.js"
+    "static/js/main.4af5e869.js"
   ]
 }
