@@ -1,14 +1,31 @@
 {
   "files": {
-    "main.css": "/word-instruction/static/css/main.6e59642d.css",
-    "main.js": "/word-instruction/static/js/main.c227fa95.js",
+    "main.css": "/word-instruction/static/css/main.23f70845.css",
+    "main.js": "/word-instruction/static/js/main.30a48f09.js",
     "static/media/imgQuiz.png": "/word-instruction/static/media/imgQuiz.1a6ddf7506b389a90bd6.png",
+    "static/media/img14.png": "/word-instruction/static/media/img14.4abe474d753c7cc180d6.png",
+    "static/media/img13.png": "/word-instruction/static/media/img13.189d7bee3e08474fafa9.png",
+    "static/media/img12.png": "/word-instruction/static/media/img12.55766bede370af88c597.png",
+    "static/media/img10.png": "/word-instruction/static/media/img10.7ff5d0c9e34f93c1d0fa.png",
+    "static/media/img16.png": "/word-instruction/static/media/img16.c2cca65806c18505a1b1.png",
+    "static/media/img9.png": "/word-instruction/static/media/img9.0b410270fcd44aa3300b.png",
+    "static/media/img6.png": "/word-instruction/static/media/img6.6f5fbab517e542d0edbe.png",
+    "static/media/img2.png": "/word-instruction/static/media/img2.2ef9a5facd43cef8d644.png",
+    "static/media/img18.png": "/word-instruction/static/media/img18.27d8a5c599d465cba688.png",
+    "static/media/img4.png": "/word-instruction/static/media/img4.d7d6a469f22b906d1763.png",
+    "static/media/img1.png": "/word-instruction/static/media/img1.51a5dc28c514d5a6f492.png",
+    "static/media/img17.png": "/word-instruction/static/media/img17.8a05aaa4b39815805b04.png",
+    "static/media/img7.png": "/word-instruction/static/media/img7.d6dad761fa19af56630d.png",
+    "static/media/img3.png": "/word-instruction/static/media/img3.7b15625f022b88c2ef30.png",
+    "static/media/img11.png": "/word-instruction/static/media/img11.9bff88fbe81d514da19d.png",
+    "static/media/img15.png": "/word-instruction/static/media/img15.3656c863935260b783cb.png",
+    "static/media/img8.png": "/word-instruction/static/media/img8.1cf10b302a319c240a6b.png",
     "index.html": "/word-instruction/index.html",
-    "main.6e59642d.css.map": "/word-instruction/static/css/main.6e59642d.css.map",
-    "main.c227fa95.js.map": "/word-instruction/static/js/main.c227fa95.js.map"
+    "main.23f70845.css.map": "/word-instruction/static/css/main.23f70845.css.map",
+    "main.30a48f09.js.map": "/word-instruction/static/js/main.30a48f09.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e59642d.css",
-    "static/js/main.c227fa95.js"
+    "static/css/main.23f70845.css",
+    "static/js/main.30a48f09.js"
   ]
 }
