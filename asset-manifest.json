@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/word-instruction/static/css/main.f5738d54.css",
-    "main.js": "/word-instruction/static/js/main.d20d70da.js",
+    "main.css": "/word-instruction/static/css/main.98b6f34a.css",
+    "main.js": "/word-instruction/static/js/main.a1e64029.js",
     "static/media/imgQuiz7.jpg": "/word-instruction/static/media/imgQuiz7.49efe7cb1e9dc77d2072.jpg",
     "static/media/imgQuiz3.jpg": "/word-instruction/static/media/imgQuiz3.57a072f1897a387678fe.jpg",
     "static/media/imgQuiz2.jpg": "/word-instruction/static/media/imgQuiz2.14000f9e6b429437d7c2.jpg",
@@ -30,11 +30,11 @@
     "static/media/img15.png": "/word-instruction/static/media/img15.3656c863935260b783cb.png",
     "static/media/img8.png": "/word-instruction/static/media/img8.1cf10b302a319c240a6b.png",
     "index.html": "/word-instruction/index.html",
-    "main.f5738d54.css.map": "/word-instruction/static/css/main.f5738d54.css.map",
-    "main.d20d70da.js.map": "/word-instruction/static/js/main.d20d70da.js.map"
+    "main.98b6f34a.css.map": "/word-instruction/static/css/main.98b6f34a.css.map",
+    "main.a1e64029.js.map": "/word-instruction/static/js/main.a1e64029.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5738d54.css",
-    "static/js/main.d20d70da.js"
+    "static/css/main.98b6f34a.css",
+    "static/js/main.a1e64029.js"
   ]
 }
