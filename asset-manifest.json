@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/word-instruction/static/css/main.13a9067a.css",
-    "main.js": "/word-instruction/static/js/main.efa5b824.js",
-    "static/media/imgQuiz7.jpg": "/word-instruction/static/media/imgQuiz7.49efe7cb1e9dc77d2072.jpg",
-    "static/media/imgQuiz3.jpg": "/word-instruction/static/media/imgQuiz3.57a072f1897a387678fe.jpg",
-    "static/media/imgQuiz2.jpg": "/word-instruction/static/media/imgQuiz2.14000f9e6b429437d7c2.jpg",
-    "static/media/imgQuiz10.jpg": "/word-instruction/static/media/imgQuiz10.aa992d9e80008b276ae2.jpg",
-    "static/media/imgQuiz4.jpg": "/word-instruction/static/media/imgQuiz4.10adb742edfe0941848b.jpg",
-    "static/media/imgQuiz9.jpg": "/word-instruction/static/media/imgQuiz9.747e911e4993bef1b3d1.jpg",
-    "static/media/imgQuiz8.jpg": "/word-instruction/static/media/imgQuiz8.db4f51fe10ee8932b22f.jpg",
-    "static/media/imgQuiz6.jpg": "/word-instruction/static/media/imgQuiz6.8829aa2a8189ef793568.jpg",
-    "static/media/imgQuiz5.jpg": "/word-instruction/static/media/imgQuiz5.11b8f69a67be186cca9e.jpg",
-    "static/media/imgQuiz1.jpg": "/word-instruction/static/media/imgQuiz1.e6c3adecda5af6016531.jpg",
+    "main.css": "/word-instruction/static/css/main.a1a032f7.css",
+    "main.js": "/word-instruction/static/js/main.ffd06cb0.js",
+    "static/media/imgQuiz3.jpg": "/word-instruction/static/media/imgQuiz3.3f13f3a51518ffd9ca2f.jpg",
+    "static/media/imgQuiz4.jpg": "/word-instruction/static/media/imgQuiz4.baebddc8ea7bf10cced9.jpg",
+    "static/media/imgQuiz10.jpg": "/word-instruction/static/media/imgQuiz10.ade376537013959a80b3.jpg",
+    "static/media/imgQuiz7.jpg": "/word-instruction/static/media/imgQuiz7.fb912d5a0d8ef502e227.jpg",
+    "static/media/imgQuiz8.jpg": "/word-instruction/static/media/imgQuiz8.8dfb9d2fffd164cc5100.jpg",
+    "static/media/imgQuiz2.jpg": "/word-instruction/static/media/imgQuiz2.8a2ee05d1012d6e51056.jpg",
+    "static/media/imgQuiz6.jpg": "/word-instruction/static/media/imgQuiz6.3386e81e8bcc4a2f8c79.jpg",
+    "static/media/imgQuiz9.jpg": "/word-instruction/static/media/imgQuiz9.6dbc923e8a51bffcbf58.jpg",
+    "static/media/imgQuiz1.jpg": "/word-instruction/static/media/imgQuiz1.69bc884a5271570269e5.jpg",
+    "static/media/imgQuiz5.jpg": "/word-instruction/static/media/imgQuiz5.2236b8b769f1234cb9c4.jpg",
     "static/media/img14.png": "/word-instruction/static/media/img14.4abe474d753c7cc180d6.png",
     "static/media/img13.png": "/word-instruction/static/media/img13.189d7bee3e08474fafa9.png",
     "static/media/img12.png": "/word-instruction/static/media/img12.55766bede370af88c597.png",
@@ -30,11 +30,11 @@
     "static/media/img15.png": "/word-instruction/static/media/img15.3656c863935260b783cb.png",
     "static/media/img8.png": "/word-instruction/static/media/img8.1cf10b302a319c240a6b.png",
     "index.html": "/word-instruction/index.html",
-    "main.13a9067a.css.map": "/word-instruction/static/css/main.13a9067a.css.map",
-    "main.efa5b824.js.map": "/word-instruction/static/js/main.efa5b824.js.map"
+    "main.a1a032f7.css.map": "/word-instruction/static/css/main.a1a032f7.css.map",
+    "main.ffd06cb0.js.map": "/word-instruction/static/js/main.ffd06cb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.13a9067a.css",
-    "static/js/main.efa5b824.js"
+    "static/css/main.a1a032f7.css",
+    "static/js/main.ffd06cb0.js"
   ]
 }
