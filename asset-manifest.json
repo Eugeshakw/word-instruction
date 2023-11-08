@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/word-instruction/static/css/main.80326b13.css",
+    "main.css": "/word-instruction/static/css/main.0cd8ce1f.css",
     "main.js": "/word-instruction/static/js/main.a0c2e3da.js",
     "static/media/animation.mp4": "/word-instruction/static/media/animation.b4a11c336f9f3d3aa33e.mp4",
     "static/media/imgQuiz3.jpg": "/word-instruction/static/media/imgQuiz3.3f13f3a51518ffd9ca2f.jpg",
@@ -32,11 +32,11 @@
     "static/media/img11.png": "/word-instruction/static/media/img11.2d38fe7f62320ccff55d.png",
     "static/media/img13.png": "/word-instruction/static/media/img13.2d38fe7f62320ccff55d.png",
     "index.html": "/word-instruction/index.html",
-    "main.80326b13.css.map": "/word-instruction/static/css/main.80326b13.css.map",
+    "main.0cd8ce1f.css.map": "/word-instruction/static/css/main.0cd8ce1f.css.map",
     "main.a0c2e3da.js.map": "/word-instruction/static/js/main.a0c2e3da.js.map"
   },
   "entrypoints": [
-    "static/css/main.80326b13.css",
+    "static/css/main.0cd8ce1f.css",
     "static/js/main.a0c2e3da.js"
   ]
 }
