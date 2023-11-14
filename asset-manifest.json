@@ -1,9 +1,22 @@
 {
   "files": {
     "main.css": "/word-instruction/static/css/main.428f53ab.css",
-    "main.js": "/word-instruction/static/js/main.43818b53.js",
+    "main.js": "/word-instruction/static/js/main.612a32c2.js",
     "static/media/animation.mp4": "/word-instruction/static/media/animation.b4a11c336f9f3d3aa33e.mp4",
+    "static/media/img14n14.jpg": "/word-instruction/static/media/img14n14.73484c77159b11c16976.jpg",
+    "static/media/img2n2.png": "/word-instruction/static/media/img2n2.b323187c52c65d788d43.png",
+    "static/media/img18n18.jpg": "/word-instruction/static/media/img18n18.7f9f69f5e9c057f67085.jpg",
+    "static/media/img4n4.jpg": "/word-instruction/static/media/img4n4.c754c76a5d37c0c35593.jpg",
+    "static/media/img8n8.jpg": "/word-instruction/static/media/img8n8.f9662b316c726eec39f2.jpg",
+    "static/media/img16n16.jpg": "/word-instruction/static/media/img16n16.b87ea8037e6cbc8b4944.jpg",
     "static/media/img1n1.png": "/word-instruction/static/media/img1n1.549752f1f10a73be2048.png",
+    "static/media/img6n6.jpg": "/word-instruction/static/media/img6n6.036dcdaf1bb6c21ac46c.jpg",
+    "static/media/img17n17.jpg": "/word-instruction/static/media/img17n17.54d248b29e73be1adea7.jpg",
+    "static/media/img3n3.jpg": "/word-instruction/static/media/img3n3.63b3e853a709d9fed424.jpg",
+    "static/media/img15n15.jpg": "/word-instruction/static/media/img15n15.4ea7bc644252dd973387.jpg",
+    "static/media/img7n7.jpg": "/word-instruction/static/media/img7n7.2a49278d7bf4ac72a888.jpg",
+    "static/media/img5n5.jpg": "/word-instruction/static/media/img5n5.fb46c64350f98b58ae77.jpg",
+    "static/media/img13n13.jpg": "/word-instruction/static/media/img13n13.26c22dac7b1f2248e77f.jpg",
     "static/media/imgQuiz3.jpg": "/word-instruction/static/media/imgQuiz3.3f13f3a51518ffd9ca2f.jpg",
     "static/media/imgQuiz4.jpg": "/word-instruction/static/media/imgQuiz4.baebddc8ea7bf10cced9.jpg",
     "static/media/imgQuiz10.jpg": "/word-instruction/static/media/imgQuiz10.ade376537013959a80b3.jpg",
@@ -16,28 +29,15 @@
     "static/media/imgQuiz5.jpg": "/word-instruction/static/media/imgQuiz5.2236b8b769f1234cb9c4.jpg",
     "static/media/img12.png": "/word-instruction/static/media/img12.766d9e2bde27f6da3c10.png",
     "static/media/img10.png": "/word-instruction/static/media/img10.7ff5d0c9e34f93c1d0fa.png",
-    "static/media/img2.png": "/word-instruction/static/media/img2.a91d89e2fb2f5992d4e0.png",
-    "static/media/img18.png": "/word-instruction/static/media/img18.6f0dadaef3802a66643d.png",
-    "static/media/img4.png": "/word-instruction/static/media/img4.6f0dadaef3802a66643d.png",
     "static/media/img9.png": "/word-instruction/static/media/img9.0b410270fcd44aa3300b.png",
-    "static/media/img16.png": "/word-instruction/static/media/img16.a6da7d1605c625efbb67.png",
-    "static/media/img6.png": "/word-instruction/static/media/img6.8f28ab16e47108f2fd28.png",
-    "static/media/img14.png": "/word-instruction/static/media/img14.183003c4d6e61cfa9839.png",
-    "static/media/img7.png": "/word-instruction/static/media/img7.007aeffabadbe0431812.png",
-    "static/media/img3.png": "/word-instruction/static/media/img3.cd98fffbd6639c51117a.png",
-    "static/media/img5.png": "/word-instruction/static/media/img5.4291501c50b67390d534.png",
-    "static/media/img8.png": "/word-instruction/static/media/img8.4291501c50b67390d534.png",
-    "static/media/img17.png": "/word-instruction/static/media/img17.9af7b11f2c91dd329930.png",
-    "static/media/img15.png": "/word-instruction/static/media/img15.32b59c365688455a65e3.png",
     "static/media/img11.png": "/word-instruction/static/media/img11.2d38fe7f62320ccff55d.png",
-    "static/media/img13.png": "/word-instruction/static/media/img13.2d38fe7f62320ccff55d.png",
     "index.html": "/word-instruction/index.html",
     "static/media/getFetch.cjs": "/word-instruction/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.428f53ab.css.map": "/word-instruction/static/css/main.428f53ab.css.map",
-    "main.43818b53.js.map": "/word-instruction/static/js/main.43818b53.js.map"
+    "main.612a32c2.js.map": "/word-instruction/static/js/main.612a32c2.js.map"
   },
   "entrypoints": [
     "static/css/main.428f53ab.css",
-    "static/js/main.43818b53.js"
+    "static/js/main.612a32c2.js"
   ]
 }
