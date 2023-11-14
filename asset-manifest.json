@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/word-instruction/static/css/main.03858b70.css",
-    "main.js": "/word-instruction/static/js/main.e4485e5e.js",
+    "main.js": "/word-instruction/static/js/main.2ad33d5c.js",
     "static/media/animation.mp4": "/word-instruction/static/media/animation.b4a11c336f9f3d3aa33e.mp4",
+    "static/media/img1n1.png": "/word-instruction/static/media/img1n1.e9987d389560e3bf44bb.png",
     "static/media/imgQuiz3.jpg": "/word-instruction/static/media/imgQuiz3.3f13f3a51518ffd9ca2f.jpg",
     "static/media/imgQuiz4.jpg": "/word-instruction/static/media/imgQuiz4.baebddc8ea7bf10cced9.jpg",
     "static/media/imgQuiz10.jpg": "/word-instruction/static/media/imgQuiz10.ade376537013959a80b3.jpg",
@@ -26,7 +27,6 @@
     "static/media/img3.png": "/word-instruction/static/media/img3.cd98fffbd6639c51117a.png",
     "static/media/img5.png": "/word-instruction/static/media/img5.4291501c50b67390d534.png",
     "static/media/img8.png": "/word-instruction/static/media/img8.4291501c50b67390d534.png",
-    "static/media/img1.png": "/word-instruction/static/media/img1.9af7b11f2c91dd329930.png",
     "static/media/img17.png": "/word-instruction/static/media/img17.9af7b11f2c91dd329930.png",
     "static/media/img15.png": "/word-instruction/static/media/img15.32b59c365688455a65e3.png",
     "static/media/img11.png": "/word-instruction/static/media/img11.2d38fe7f62320ccff55d.png",
@@ -34,10 +34,10 @@
     "index.html": "/word-instruction/index.html",
     "static/media/getFetch.cjs": "/word-instruction/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.03858b70.css.map": "/word-instruction/static/css/main.03858b70.css.map",
-    "main.e4485e5e.js.map": "/word-instruction/static/js/main.e4485e5e.js.map"
+    "main.2ad33d5c.js.map": "/word-instruction/static/js/main.2ad33d5c.js.map"
   },
   "entrypoints": [
     "static/css/main.03858b70.css",
-    "static/js/main.e4485e5e.js"
+    "static/js/main.2ad33d5c.js"
   ]
 }
